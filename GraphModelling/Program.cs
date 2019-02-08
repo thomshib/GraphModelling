@@ -13,12 +13,12 @@ namespace GraphModelling
         {
 
             BellmanFordTestMethod();
-            //FloydWarshallFunction();
-            //JohnsonFunction();
-            //GenerateSets();
-            //Bitmask();
-            //TSPRecursiveBitMaskTestMethod();
-            //TSPIterativeBitMaskTestMethod();
+            ////FloydWarshallFunction();
+            ////JohnsonFunction();
+            ////GenerateSets();
+            ////Bitmask();
+            ////TSPRecursiveBitMaskTestMethod();
+            ////TSPIterativeBitMaskTestMethod();
             TSPDynamicPrgTestMethod();
 
 
