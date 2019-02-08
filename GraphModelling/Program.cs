@@ -12,7 +12,7 @@ namespace GraphModelling
         static void Main(string[] args)
         {
 
-            //BellmanFordTestMethod();
+            BellmanFordTestMethod();
             //FloydWarshallFunction();
             //JohnsonFunction();
             //GenerateSets();
